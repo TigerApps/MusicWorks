@@ -1,0 +1,30 @@
+SongDownloader
+Just type in a song and the artist 
+and the program will get the YouTube video,convert it to an mp3 then download it or any other mp3.
+the user can choose the directory 
+
+TagCorrctor
+
+SongDiretorySetter
+reads tags from files in directory
+creates necessary folders
+moves files
+
+EmbedLyrics 
+reads tags from files in directory
+searches
+and adds lyrics
+
+EmbedAlbumArt
+reads tags from files in directory
+searches
+and adds album art
+
+
+SongDownloader
+
+SongDiretorySetter
+EmbedLyrics
+EmbedAlbumArt
+
+~TigerApps
