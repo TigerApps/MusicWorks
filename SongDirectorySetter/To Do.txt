@@ -1,4 +1,5 @@
 mutagen 
+encoding
 time stamps, progress info
 copy2 or move
 video n image distinguish
