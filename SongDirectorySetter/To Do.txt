@@ -1,0 +1,10 @@
+mutagen 
+time stamps, progress info
+copy2 or move
+video n image distinguish
+other song formats
+gui
+selectable options update only
+
+
+
